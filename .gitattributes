@@ -2,3 +2,5 @@
 * text=auto
 *.csv filter=lfs diff=lfs merge=lfs -text
 */Users/mimislfc/Desktop/ΑΝΝΑ/[[:space:]]ΙΙΒΕΑΑ/SNCA_redd_HUB/volcano.xlsx filter=lfs diff=lfs merge=lfs -text
+.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
